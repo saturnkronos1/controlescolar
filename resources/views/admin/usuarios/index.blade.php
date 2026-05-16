@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-    <div class="w-full space-y-6">
+    <div class="w-full space-y-6 bg-primary">
 
         <div class="flex items-center justify-between">
 
