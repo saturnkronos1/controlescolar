@@ -22,3 +22,14 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# SQLite (usas MySQL)
+/database/database.sqlite
