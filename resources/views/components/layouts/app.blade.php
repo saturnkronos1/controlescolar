@@ -11,7 +11,7 @@
     @include('layouts.app.sidebar')
 
     {{-- Contenido --}}
-    <flux:main class="lg:ml-72">
+    <flux:main>
         
             {{ $slot }}
         
